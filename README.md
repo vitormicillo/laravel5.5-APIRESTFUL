@@ -39,4 +39,4 @@
 ## bravomobile.it
 
 # I would love a beer
-https://beerpay.io/vitormicillo/laravel5.5-APIRESTFUL/badge.svg?style=flat
+[![Beerpay](https://beerpay.io/vitormicillo/laravel5.5-APIRESTFUL/badge.svg?style=flat)](https://beerpay.io/vitormicillo/laravel5.5-APIRESTFUL)
